@@ -1,0 +1,11 @@
+{
+  "name": "com.virtualbrightplayz.network",
+  "version": "1.0.0",
+  "author": {
+      "name": "VirtualBrightPlayz"
+  },
+  "displayName": "Virtual's Packet Networking",
+  "type": "library",
+  "license": "MIT",
+  "description": "A networking framework using MessagePack-CSharp and LiteNetLib"
+}
